@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 public class LeseFraFil {
     
-    private static final String SKILLE = null;
+    private static final String SKILLE = "#";
 
 	public static void main(String[] args) {
         
